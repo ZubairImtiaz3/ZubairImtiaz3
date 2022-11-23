@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/zubairimtiaz1" target="_blank"><img src="https://img.shields.io/twitter/follow/zubairimtiaz1?logo=twitter&style=for-the-badge" alt="zubairimtiaz1" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://safinatravels.netlify.app/" target="blank">Safina al Madina</a>
+- 🔭 I’m currently working on <a href="https://safinatravels.netlify.app/" target="blank">Eden Spa</a>
 
 - 🌱 I’m currently learning **React, Next.js and Strapi**
 
