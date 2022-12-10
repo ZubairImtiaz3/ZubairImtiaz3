@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on <a href="https://eden-spa.vercel.app/" target="blank">Eden Spa</a>
 
-- 🌱 I’m currently learning **React, Next.js and Strapi**
+- 🌱 I’m currently learning **React, Next.js, Rest Api's and Strapi**
 
 - 💬 Ask me about **Web Development**
 
