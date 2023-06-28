@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/zubairimtiaz1" target="_blank"><img src="https://img.shields.io/twitter/follow/zubairimtiaz1?logo=twitter&style=for-the-badge" alt="zubairimtiaz1" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://eden-spa.vercel.app/" target="blank">Eden Spa</a>
+- 🔭 I’m currently working on <a href="https://development.appcentral.learners.ai/login" target="blank">App Central</a>
 
-- 🌱 I’m currently learning **React, Next.js, Rest Api's and Strapi**
+- 🌱 I’m currently learning **Next.js, Express.js, MongoDB, Node.js, and Strapi**
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **zubairimtiaz395@gmail.com**
 
-- ⚡ Fun fact **I found my passion about front-end development when I came to know that I’ve this quality of putting great attention to details. I became really passionate and kept creating since then. It absolutely has its ups and downs but if you love what you do and are able to provide value to people, I think the outcomes are far more rewarding!**
+- ⚡ Fun fact **I found my passion for front-end development when I came to know that I have this quality of putting great attention to detail. I became really passionate and kept creating since then. It absolutely has its ups and downs but if you love what you do and are able to provide value to people, I think the outcomes are far more rewarding!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
