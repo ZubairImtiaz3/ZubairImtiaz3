@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/zubairimtiaz1" target="_blank"><img src="https://img.shields.io/twitter/follow/zubairimtiaz1?logo=twitter&style=for-the-badge" alt="zubairimtiaz1" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://development.appcentral.learners.ai/login" target="blank">App Central</a>
+- 🔭 I’m currently working on <a href="https://development.appcentral.learners.ai/login" target="_blank">App Central</a>
 
 - 🌱 I’m currently learning **Next.js, Express.js, MongoDB, Node.js, and Strapi**
 
