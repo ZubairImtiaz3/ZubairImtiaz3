@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/ZubairImtiaz3/trade-ease" target="_blank">Trade Ease</a>
 
-- 🌱 I’m currently learning **Express.js, MongoDB, Node.js, and Firebase**
+- 🌱 I’m currently learning **Express.js, MongoDB, Node.js, and Firebase/Supabase**
 
 - 💬 Ask me about **Web Development**
 
