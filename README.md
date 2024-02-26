@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zubair Imtiaz.</h1>
-<h3 align="center">From Pakistan. Satisfying my need for creativity by using Frontend Development.</h3>
+<h3 align="center">From Pakistan. Satisfying my need for creativity by using Frontend Development</h3>
 
 <img align="right" width="400" src="https://img.freepik.com/free-vector/programmer-concept-illustration_114360-2923.jpg?w=740&t=st=1664484027~exp=1664484627~hmac=0097b221b321610026341b75db219c240c09a5618b2be63b6f7438d3ef9e9d6b">
 
