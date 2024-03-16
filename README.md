@@ -29,7 +29,6 @@ I'm a 21-year-old Frontend Engineer based in Pakistan, and I'm passionate about 
  For a quick response, DM me on [Twitter](https://twitter.com/ZubairImtiaz1) or [LinkedIn](https://www.linkedin.com/in/zubair9395/).
 
 &nbsp;
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zubairimtiaz3&" alt="zubairimtiaz3" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zubairimtiaz3&show_icons=true&locale=en" alt="zubairimtiaz3" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zubairimtiaz3&show_icons=true&locale=en" alt="zubairimtiaz3" /></p>
 
 
