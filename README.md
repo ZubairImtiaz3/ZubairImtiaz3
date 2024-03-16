@@ -1,38 +1,35 @@
-<h1 align="center">Hi 👋, I'm Zubair Imtiaz.</h1>
-<h3 align="center">From Pakistan. Satisfying my need for creativity by using Frontend Development.</h3>
+### Hey, I'm Zubair 👋🏽  
 
-<img align="right" width="400" src="https://img.freepik.com/free-vector/programmer-concept-illustration_114360-2923.jpg?w=740&t=st=1664484027~exp=1664484627~hmac=0097b221b321610026341b75db219c240c09a5618b2be63b6f7438d3ef9e9d6b">
+I'm a 21-year-old Frontend Engineer based in Pakistan, and I'm passionate about crafting digital solutions. 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zubairimtiaz3&label=Profile%20views&color=0e75b6&style=flat" alt="zubairimtiaz3" /> </p>
+- Transitioning into full-stack development, Quickly adapting backend technologies and expanding skillset.
+- Currently dedicated to [Trade Ease](https://trade-ease.vercel.app/). A full-stack business management, invoicing, and sales analytics app.
+- Check out my first Chrome extension [Contentify](https://contentify-in.vercel.app/). Automates LinkedIn scrolling, and scrapes content by keywords.
+ 
+## 📦 Toolbox
 
-<p align="left"> <a href="https://twitter.com/zubairimtiaz1" target="_blank"><img src="https://img.shields.io/twitter/follow/zubairimtiaz1?logo=twitter&style=for-the-badge" alt="zubairimtiaz1" /></a> </p>
+**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Framer-Motion`
+ 
+**Version Control:** `Git` `GitHub`
 
-- 🔭 I’m currently working on <a href="https://github.com/ZubairImtiaz3/trade-ease" target="_blank">Trade Ease</a>
+**Backend Development:** `Firebase` `Supabase` `Express.js` `Mongodb` 
 
-- 🌱 I’m currently learning **Express.js, MongoDB, Node.js, and Firebase/Supabase**
+**Cloud Services:** `AWS EC2` `AWS S3` `AWS Conginto`
 
-- 💬 Ask me about **Web Development**
+**Others:** `WordPress` `HubSpot CMS` `HubSpot CRM`
+ 
+## ✨ Fun Facts 
 
-- 📫 How to reach me **zubairimtiaz395@gmail.com**
+- Man Search For Meaning is my favorite book.
+- As a kid, I wanted to be a Cricketer.
+- I love playing Call Of Duty & RDR2.
 
-- ⚡ Fun fact **I found my passion for front-end development when I came to know that I have this quality of paying great attention to detail. I became passionate and kept creating since then. It has its ups and downs but if you love what you do and can provide value to people, I think the outcomes are far more rewarding!**
+## 📫 Contact
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/zubairimtiaz1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zubairimtiaz1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zubair-imtiaz-841770250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zubair-imtiaz-841770250" height="30" width="40" /></a>
-<a href="https://fb.com/zubair.imtiaz.16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zubair.imtiaz.16" height="30" width="40" /></a>
-<a href="https://instagram.com/zubairimtiaz3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zubairimtiaz3" height="30" width="40" /></a>
-<a href="https://www.behance.net/zubairimtiaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="zubairimtiaz" height="30" width="40" /></a>
-</p>
+ For a quick response, DM me on [Twitter](https://twitter.com/ZubairImtiaz1) or [LinkedIn](https://www.linkedin.com/in/zubair9395/).
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+&nbsp;
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zubairimtiaz3&show_icons=true&locale=en&layout=compact" alt="zubairimtiaz3" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zubairimtiaz3&" alt="zubairimtiaz3" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zubairimtiaz3&show_icons=true&locale=en" alt="zubairimtiaz3" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zubairimtiaz3&show_icons=true&locale=en" alt="zubairimtiaz3" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zubairimtiaz3&" alt="zubairimtiaz3" /></p>
-
-[![An image of @zubairimtiaz3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zubairimtiaz3)](https://holopin.io/@zubairimtiaz3)
