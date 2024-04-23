@@ -29,8 +29,8 @@ I'm a 21-year-old Frontend Engineer based in Pakistan, and I'm passionate about 
  For a quick response, DM me on [Twitter](https://twitter.com/ZubairImtiaz1) or [LinkedIn](https://www.linkedin.com/in/zubair9395/).
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=zubairimtiaz3&show_icons=true&locale=en" alt="zubairimtiaz3" />
-<a href="https://gitroll.io/profile/usAGYK7lyWAdC5bxgPn31sfNNVCh2" target="_blank"><img align="center" width="435" src="https://gitroll.io/api/badges/profiles/v1/usAGYK7lyWAdC5bxgPn31sfNNVCh2" alt="GitRoll Profile Badge"/></a>
+<img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=zubairimtiaz3&show_icons=true&locale=en" alt="zubairimtiaz3" />
+<a href="https://gitroll.io/profile/usAGYK7lyWAdC5bxgPn31sfNNVCh2" target="_blank"><img align="center" width="350" src="https://gitroll.io/api/badges/profiles/v1/usAGYK7lyWAdC5bxgPn31sfNNVCh2" alt="GitRoll Profile Badge"/></a>
 </p>
 
 
