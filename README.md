@@ -5,7 +5,7 @@ I'm a 21-year-old Frontend Engineer based in Pakistan, and I'm passionate about 
 - Transitioning into full-stack development, Quickly adapting backend technologies and expanding skillset.
 - Currently dedicated to [Trade Ease](https://trade-ease.vercel.app/). A full-stack business management, invoicing, and sales analytics app.
 - Check out my first Chrome extension [Contentify](https://contentify-in.vercel.app/). Automates LinkedIn scrolling, and scrapes content by keywords.
- 
+
 ## 📦 Toolbox
 
 **Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Framer-Motion`
@@ -28,7 +28,9 @@ I'm a 21-year-old Frontend Engineer based in Pakistan, and I'm passionate about 
 
  For a quick response, DM me on [Twitter](https://twitter.com/ZubairImtiaz1) or [LinkedIn](https://www.linkedin.com/in/zubair9395/).
 
-&nbsp;
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zubairimtiaz3&show_icons=true&locale=en" alt="zubairimtiaz3" /></p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=zubairimtiaz3&show_icons=true&locale=en" alt="zubairimtiaz3" />
+<a href="https://gitroll.io/profile/usAGYK7lyWAdC5bxgPn31sfNNVCh2" target="_blank"><img align="center" width="435" src="https://gitroll.io/api/badges/profiles/v1/usAGYK7lyWAdC5bxgPn31sfNNVCh2" alt="GitRoll Profile Badge"/></a>
+</p>
 
 
