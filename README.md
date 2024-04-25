@@ -30,6 +30,7 @@ I'm a 21-year-old Frontend Engineer based in Pakistan, and I'm passionate about 
 
 <p>
 <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=zubairimtiaz3&show_icons=true&locale=en" alt="zubairimtiaz3" />
+&nbsp;
 <a href="https://gitroll.io/profile/usAGYK7lyWAdC5bxgPn31sfNNVCh2" target="_blank"><img align="center" width="350" src="https://gitroll.io/api/badges/profiles/v1/usAGYK7lyWAdC5bxgPn31sfNNVCh2" alt="GitRoll Profile Badge"/></a>
 </p>
 
