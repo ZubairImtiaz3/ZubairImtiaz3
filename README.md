@@ -8,11 +8,11 @@ I'm a 21-year-old Frontend Engineer based in Pakistan, and I'm passionate about 
 
 ## 📦 Toolbox
 
-**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Framer-Motion`
+**Frontend Development:** `JavaScript` `TypeScript` `React` `Next.js` `TailwindCSS` `Framer-Motion`
  
 **Version Control:** `Git` `GitHub`
 
-**Backend Development:** `Firebase` `Supabase` `Node.js` `Express.js` `MongoDB` `PostgreSQL`
+**Backend Development:** `Node.js` `Express.js` `Firebase` `Supabase` `MongoDB` `PostgreSQL`
 
 **Cloud Services:** `AWS EC2` `AWS S3` `AWS Conginto`
 
