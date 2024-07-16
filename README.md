@@ -12,7 +12,7 @@ I'm a 21-year-old Frontend Engineer based in Pakistan, and I'm passionate about 
  
 **Version Control:** `Git` `GitHub`
 
-**Backend Development:** `Firebase` `Supabase` `Node.js` `Mongodb` `PostgreSQL`
+**Backend Development:** `Firebase` `Supabase` `Node.js` `Express.js` `MongoDB` `PostgreSQL`
 
 **Cloud Services:** `AWS EC2` `AWS S3` `AWS Conginto`
 
