@@ -3,7 +3,7 @@
 I'm a 21-year-old Frontend Engineer based in Pakistan, and I'm passionate about crafting digital solutions. 
 
 - Transitioning into full-stack development, Quickly adapting backend technologies and expanding skillset.
-- Currently dedicated to [Trade Ease](https://trade-ease.vercel.app/). A full-stack business management, invoicing, and sales analytics app.
+- Currently dedicated to [GitIssuefy](https://git-issuefy.vercel.app/). A web app that tracks new issues in your favorite open-source projects based on your selected labels and notifies you through discord.
 - Check out my first Chrome extension [Contentify](https://contentify-in.vercel.app/). Automates LinkedIn scrolling, and scrapes content by keywords.
 
 ## 📦 Toolbox
