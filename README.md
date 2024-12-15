@@ -26,7 +26,7 @@ I'm a 21-year-old Frontend Engineer based in Pakistan, and I'm passionate about 
 
 ## 📫 Contact
 
- For a quick response, DM me on [Twitter](https://twitter.com/ZubairImtiaz1) or [LinkedIn](https://www.linkedin.com/in/zubair9395/).
+ For a quick response, DM me on [Twitter](https://twitter.com/ZubairImtiaz1) or [LinkedIn](https://www.linkedin.com/in/zubair9395/)
 
 <p>
 <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=zubairimtiaz3&show_icons=true&locale=en" alt="zubairimtiaz3" />
