@@ -1,6 +1,6 @@
 ### Hey, I'm Zubair 👋🏽  
 
-I'm a 21-year-old Frontend Engineer based in Pakistan, and I'm passionate about crafting digital solutions. 
+I'm a 23-year-old Frontend Engineer based in Pakistan, and I'm passionate about crafting digital solutions. 
 
 - Transitioning into full-stack development, Quickly adapting backend technologies and expanding skillset.
 - Currently dedicated to [GitIssuefy](https://git-issuefy.vercel.app/). A web app that tracks new issues in your favorite open-source projects based on your selected labels and notifies you through discord.
