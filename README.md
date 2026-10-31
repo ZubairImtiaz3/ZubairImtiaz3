@@ -1,37 +1,20 @@
-### Hey, I'm Zubair 👋🏽  
+### Hey, I'm Zubair 👋🏽
 
-I'm a 23-year-old Frontend Engineer based in Pakistan, and I'm passionate about crafting digital solutions. 
+Most of my work these days is on HubSpot: portals, integrations, apps and the backend that keeps them running, built with Node.js, Python and TypeScript. I also lead a small team at work.
 
-- Transitioning into full-stack development, Quickly adapting backend technologies and expanding skillset.
-- Currently dedicated to [GitIssuefy](https://git-issuefy.vercel.app/). A web app that tracks new issues in your favorite open-source projects based on your selected labels and notifies you through discord.
-- Check out my first Chrome extension [Contentify](https://contentify-in.vercel.app/). Automates LinkedIn scrolling, and scrapes content by keywords.
+- Lately I've been building MCP connectors and experimenting with AI agents.
+- I like finding the manual work people keep repeating and turning it into systems that run on their own.
+- Helping people get unstuck is honestly one of my favorite things, whether that means thinking a problem through with them or building the thing that solves it.
+- Open source is where I learned the most. I've had [23 PRs merged into Mattermost](https://github.com/mattermost/mattermost/pulls?q=is%3Apr+author%3AZubairImtiaz3+is%3Amerged) and want to contribute more.
+- Side projects: [GitIssuefy](https://git-issuefy.vercel.app/) tracks new issues in open-source projects by label and pings you on Discord. [Next RAG Boilerplate](https://next-rag-boilerplate.vercel.app/) is a RAG starter that runs on free tiers.
+- Always up for a chat about HubSpot, integrations, AI agents, automation, open source, or whatever you're building.
 
-## 📦 Toolbox
+## ✨ Fun Facts
 
-**Frontend Development:** `JavaScript` `TypeScript` `React` `Next.js` `TailwindCSS` `Framer-Motion`
- 
-**Version Control:** `Git` `GitHub`
-
-**Backend Development:** `Node.js` `Express.js` `Firebase` `Supabase` `MongoDB` `PostgreSQL`
-
-**Cloud Services:** `AWS EC2` `AWS S3` `AWS Conginto`
-
-**Others:** `WordPress` `Webflow` `HubSpot CMS` `HubSpot CRM`
- 
-## ✨ Fun Facts 
-
-- Man Search For Meaning is my favorite book.
-- As a kid, I wanted to be a Cricketer.
-- I love playing Call Of Duty & RDR2.
+- Man's Search for Meaning is my favorite book.
+- As a kid, I wanted to be a cricketer.
+- I love playing Red Dead Redemption 2.
 
 ## 📫 Contact
 
- For a quick response, DM me on [Twitter](https://twitter.com/ZubairImtiaz1) or [LinkedIn](https://www.linkedin.com/in/zubair9395/).
-
-<p>
-<img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=zubairimtiaz3&show_icons=true&locale=en" alt="zubairimtiaz3" />
-&nbsp;
-<a href="https://gitroll.io/profile/usAGYK7lyWAdC5bxgPn31sfNNVCh2" target="_blank"><img align="center" width="350" src="https://gitroll.io/api/badges/profiles/v1/usAGYK7lyWAdC5bxgPn31sfNNVCh2" alt="GitRoll Profile Badge"/></a>
-</p>
-
-
+Email me at zubairimtiaz395@gmail.com or message me on [LinkedIn](https://www.linkedin.com/in/zubair9395/).
